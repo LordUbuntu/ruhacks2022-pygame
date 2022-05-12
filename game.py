@@ -1,4 +1,8 @@
-# This is a cool but simple python game made with pygame
+#!/bin/python3
+# Created by Jacobus Burger (2022), Art, Fonts, and most code structure
+#   taken from the workshop.
+# Info:
+#   This is a cool but simple python game made with pygame.
 #   I want to thank Nika for her excellent teaching skills that made
 #   learning this a breeze.
 #   i also want to thank Women in Computer Science and RUHacks for
